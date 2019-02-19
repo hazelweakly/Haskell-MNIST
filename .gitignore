@@ -1,0 +1,5 @@
+.stack-work/
+mnist.cabal
+*~
+old
+hw.md
